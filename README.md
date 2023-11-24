@@ -4,11 +4,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### Sponsors
-<a href="https://il.ly/"><img src="https://avatars.githubusercontent.com/u/304283?s=200&v=4" height="80"></a>
-
-**[Be my sponsor and your logo will be here and prompts.chat!](https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=319423)**
-
 ---
 
 Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
@@ -47,27 +42,11 @@ I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to C
 
 📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
 
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
-
-📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
-
 ### Want to secure your ChatGPT apps?
 
 [Utku Şen](https://twitter.com/utkusen) authored an e-book called **"Securing GPT: A Practical Introduction to Attack and Defend ChatGPT Applications"**.
 
 📖 **[Buy the e-book](https://utkusen.gumroad.com/l/securing-gpt-attack-defend-chatgpt-applications)**
-
----
-
-## Other Prompting Resources
-
-### Want to Learn How to write image prompts for Midjourney AI?
-
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
-
-📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
 
 ---
 
